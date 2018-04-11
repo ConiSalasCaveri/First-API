@@ -1,0 +1,6 @@
+C:\Users\constanza\Documents\Visual Studio 2017\Projects\SolutionAPI\CityInfo\bin\Debug\netcoreapp1.1\CityInfo.deps.json
+C:\Users\constanza\Documents\Visual Studio 2017\Projects\SolutionAPI\CityInfo\bin\Debug\netcoreapp1.1\CityInfo.runtimeconfig.json
+C:\Users\constanza\Documents\Visual Studio 2017\Projects\SolutionAPI\CityInfo\bin\Debug\netcoreapp1.1\CityInfo.runtimeconfig.dev.json
+C:\Users\constanza\Documents\Visual Studio 2017\Projects\SolutionAPI\CityInfo\bin\Debug\netcoreapp1.1\CityInfo.dll
+C:\Users\constanza\Documents\Visual Studio 2017\Projects\SolutionAPI\CityInfo\obj\Debug\netcoreapp1.1\CityInfo.csprojResolveAssemblyReference.cache
+C:\Users\constanza\Documents\Visual Studio 2017\Projects\SolutionAPI\CityInfo\obj\Debug\netcoreapp1.1\CityInfo.AssemblyInfo.cs
