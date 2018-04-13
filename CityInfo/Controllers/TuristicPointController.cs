@@ -69,6 +69,11 @@ namespace CityInfo.Controllers
                 return NotFound();
             }
 
+            if (!ModelState.IsValid)
+            {
+                return BadRequest();
+            }
+
             var turisticPointToCreate = new API.Entity.TuristicPoint()
             {
                 Id = 12,
