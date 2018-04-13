@@ -5,13 +5,9 @@ using System.Threading.Tasks;
 
 namespace CityInfo.Models
 {
-    public class CityDto
+    public class TuristicPointDto
     {
         public string Name { get; set; }
-
         public string Description { get; set; }
-
-        public ICollection<TuristicPointDto> TuristicPoints { get; set; } =
-            new List<TuristicPointDto>();
     }
 }
